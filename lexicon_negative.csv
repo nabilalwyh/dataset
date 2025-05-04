@@ -6613,13 +6613,13 @@ rumit,-4
 buruk,-4
 gangguan,4
 masalah,-3
-gagal.-5
+gagal,-5
 error,-5
 pishing,-4
 sulit,-4
 kesulitan,-4
 mengganggu,-3
-tidak user-friendly,-3
+tidak_user_friendly,-3
 kesalahan,-3
 lambat,-4  
 lemot,-4  
@@ -6627,41 +6627,41 @@ macet,-4
 terblokir,-4  
 hilang,-4  
 bug,-3  
-tidak bisa login,-5  
-tidak responsif,-3  
+tidak_bisa_login,-5  
+tidak_responsif,-3  
 mengecewakan,-4  
 ribet,-3  
-tidak aman,-5  
-server down,-5  
-tidak jelas,-3  
-verifikasi gagal,-4  
-fitur tidak berfungsi,-4  
-tidak bisa transfer,-5  
-saldo tidak muncul,-5  
-pengaduan lambat,-4  
-support buruk,-4  
+tidak_aman,-5  
+server_down,-5  
+tidak_jelas,-3  
+verifikasi_gagal,-4  
+fitur_tidak_berfungsi,-4  
+tidak_bisa_transfer,-5  
+saldo_tidak_muncul,-5  
+pengaduan_lambat,-4  
+support_buruk,-4  
 hang,-4  
 crash,-4  
 lag,-4  
-terlalu sering error,-5  
-tidak stabil,-4  
-transaksi gagal,-5  
-proses lama,-3  
-loading terus,-4  
-tidak sesuai ekspektasi,-3  
-tidak bisa diakses,-5  
-susah dipakai,-3  
-tidak membantu,-3  
-fitur terbatas,-3  
-sistem bermasalah,-4  
-banyak kendala,-4  
-tidak update,-2  
-sering keluar sendiri,-4  
-akses ditolak,-5  
-tidak terhubung,-4  
-tidak ada notifikasi,-3  
-informasi tidak akurat,-4  
-otp tidak masuk,-5  
-kesulitan verifikasi,-4  
-tidak bisa daftar,-5  
-interface membingungkan,-3
+terlalu_sering_error,-5  
+tidak_tabil,-4  
+transaksi_gagal,-5  
+proses_lama,-3  
+loading_terus,-4  
+tidak_sesuai_ekspektasi,-3  
+tidak_bisa_diakses,-5  
+susah_dipakai,-3  
+tidak_membantu,-3  
+fitur_terbatas,-3  
+sistem_bermasalah,-4  
+banyak_kendala,-4  
+tidak_update,-2  
+sering_keluar sendiri,-4  
+akses_ditolak,-5  
+tidak_terhubung,-4  
+tidak_ada_notifikasi,-3  
+informasi_tidak_akurat,-4  
+otp_tidak_masuk,-5  
+kesulitan_verifikasi,-4  
+tidak_bisa_daftar,-5  
+interface_membingungkan,-3
